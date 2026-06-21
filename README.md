@@ -1,7 +1,7 @@
 <div align="center">
 
 ```
- ███████╗ █████╗ ██╗██╗  ██╗██╗   ██╗███╗   ███╗ █████╗ ██████╗
+███████╗ █████╗ ██╗██╗  ██╗██╗   ██╗███╗   ███╗ █████╗ ██████╗
 ██╔════╝██╔══██╗██║██║ ██╔╝██║   ██║████╗ ████║██╔══██╗██╔══██╗
 ███████╗███████║██║█████╔╝ ██║   ██║██╔████╔██║███████║██████╔╝
 ╚════██║██╔══██║██║██╔═██╗ ██║   ██║██║╚██╔╝██║██╔══██║██╔══██╗
@@ -30,7 +30,7 @@ role:       "DevOps Engineer | SRE"
 location:   "India 🇮🇳"
 
 shipped:
-  - "✅ Roboshop — Docker   (done)"
+  - "✅ Roboshop — Docker     (done)"
   - "✅ Roboshop — Kubernetes (done)"
 
 currently_brushing_up:
@@ -86,7 +86,7 @@ status:     "● actively levelling up"
 
 ```
 [Ansible] ──✅──▶ [Docker] ──✅──▶ [Kubernetes] ──✅──▶ [Helm] ──🔄──▶ [CI/CD] ──🔄──▶ [ArgoCD/GitOps]
-                                                          learning now...
+                                                              learning now...
 ```
 
 ---
@@ -144,4 +144,5 @@ status:     "● actively levelling up"
   <br/>
   <sub>Built with ❤️ and a lot of <code>kubectl apply -f .</code> runs</sub>
 </div>
+
 
