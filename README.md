@@ -1,13 +1,17 @@
----
-<img width="1356" height="1940" alt="image" src="https://github.com/user-attachments/assets/9b51f6ec-ca8c-436a-a65a-4f74be99c6a3" />
----
+<div align="center">
 
-
-
+```
+ ███████╗ █████╗ ██╗██╗  ██╗██╗   ██╗███╗   ███╗ █████╗ ██████╗
+██╔════╝██╔══██╗██║██║ ██╔╝██║   ██║████╗ ████║██╔══██╗██╔══██╗
+███████╗███████║██║█████╔╝ ██║   ██║██╔████╔██║███████║██████╔╝
+╚════██║██╔══██║██║██╔═██╗ ██║   ██║██║╚██╔╝██║██╔══██║██╔══██╗
+███████║██║  ██║██║██║  ██╗╚██████╔╝██║ ╚═╝ ██║██║  ██║██║  ██║
+╚══════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
+```
 
 ### Hi there 👋 I'm **Saikumar Mothukuri**
 
-*🚀 || DevOps || SRE || Cloud Engineer || Platform Engineer — Automating everything, breaking nothing (usually)*
+*🚀 DevOps Engineer & SRE — Automating everything, breaking nothing (usually)*
 
 [![Profile Views](https://komarev.com/ghpvc/?username=MothukuriSaikumar&color=58a6ff&style=flat-square&label=profile+views)](https://github.com/MothukuriSaikumar)
 [![GitHub followers](https://img.shields.io/github/followers/MothukuriSaikumar?label=followers&style=flat-square&color=3fb950)](https://github.com/MothukuriSaikumar?tab=followers)
@@ -20,40 +24,41 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-name:        "Saikumar Mothukuri"
-pronouns:    "he/him"
-role:        "DevOps Engineer || SRE"
-location:    "India 🇮🇳"
+# saikumar.yaml — last updated 2025
+name:       "Saikumar Mothukuri"
+role:       "DevOps Engineer | SRE"
+location:   "India 🇮🇳"
 
-currently:
-  working_on:   "Roboshop — microservices automation with Ansible"
-  learning:     "Kubernetes · Terraform · Cloud-native SRE practices"
-  exploring:    "Observability, chaos engineering & GitOps workflows"
+shipped:
+  - "✅ Roboshop — Docker   (done)"
+  - "✅ Roboshop — Kubernetes (done)"
 
-looking_to_collaborate_on:
-  - "DevOps tooling & infrastructure automation"
-  - "Open-source SRE / platform engineering projects"
+currently_brushing_up:
+  - "⛵ Helm          — chart packaging & releases"
+  - "🔄 CI/CD         — pipeline design & best practices"
+  - "🐙 GitOps        — ArgoCD, declarative deployments"
 
-ask_me_about:
-  - "Docker & containerization"
-  - "Ansible playbooks & config management"
-  - "CI/CD pipelines"
-  - "SQL Server & databases"
-
-fun_fact: >
-  I have the Pull Shark 🦈 achievement on GitHub —
-  I merge PRs faster than I merge lanes in traffic.
+superpower: "Automating the boring stuff"
+open_to:    "Collaborate on DevOps & SRE open-source projects"
+ask_me:     ["Docker", "Kubernetes", "Ansible", "CI/CD", "SQL Server"]
+fun_fact:   "I have the Pull Shark 🦈 badge — merging PRs at full speed"
+status:     "● actively levelling up"
 ```
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Infrastructure & DevOps**
+**Containers & Orchestration**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+
+**Infrastructure & Config**
+
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
@@ -74,7 +79,15 @@ fun_fact: >
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+---
+
+## 🗺️ DevOps Journey
+
+```
+[Ansible] ──✅──▶ [Docker] ──✅──▶ [Kubernetes] ──✅──▶ [Helm] ──🔄──▶ [CI/CD] ──🔄──▶ [ArgoCD/GitOps]
+                                                          learning now...
+```
 
 ---
 
@@ -96,8 +109,8 @@ fun_fact: >
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [🤖 Roboshop-ansible](https://github.com/MothukuriSaikumar/Roboshop-ansible) | Full microservices app automation with Ansible playbooks | `Ansible` `Linux` `DevOps` |
-| [🐳 Docker-Zero-to-Hero](https://github.com/MothukuriSaikumar/Docker-Zero-to-hero-Abi) | Learning Docker end-to-end with hands-on examples | `Docker` `Containers` |
+| [🤖 Roboshop-ansible](https://github.com/MothukuriSaikumar/Roboshop-ansible) | Roboshop microservices automated with Ansible | `Ansible` `Linux` |
+| [🐳 Docker-Zero-to-Hero](https://github.com/MothukuriSaikumar/Docker-Zero-to-hero-Abi) | Docker end-to-end with hands-on examples | `Docker` `Containers` |
 | [🌐 vprofile-project](https://github.com/MothukuriSaikumar/vprofile-project) | Multi-tier Java web app deployment on AWS | `AWS` `Tomcat` `MySQL` |
 | [🍔 FoodDeliveryApp](https://github.com/MothukuriSaikumar/FoodDeliveryApp) | Food delivery frontend project | `CSS` `HTML` |
 | [🗄️ Sql-Server-practice](https://github.com/MothukuriSaikumar/Sql-Server-practice) | SQL Server BikeStore database exercises | `SQL Server` |
@@ -129,6 +142,6 @@ fun_fact: >
 <div align="center">
   <sub>⭐ If you find my projects useful, a star goes a long way! 🙏</sub>
   <br/>
-  <sub>Built with ❤️ and a lot of <code>ansible-playbook --check</code> runs</sub>
+  <sub>Built with ❤️ and a lot of <code>kubectl apply -f .</code> runs</sub>
 </div>
 
